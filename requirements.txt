@@ -1,0 +1,10 @@
+numpy>=1.16.2
+mne_bids
+scipy>=1.2.1
+mne_icalabel
+
+# Dash
+gunicorn>=19.8.1
+dash>=1.0.0
+mne>=0.19
+colorlover>=0.2.1
